@@ -8,7 +8,7 @@ import os
 load_dotenv()
 
 BASE_API_URL = "https://api.langflow.astra.datastax.com"
-LANGFLOW_ID = "34c16f5c-70e4-4bb6-9c51-89a41a653efd"
+LANGFLOW_ID = "df9171e8-6ac1-4ad7-b9d0-c5fdc70be19c"
 APPLICATION_TOKEN = os.getenv("LANGFLOW_TOKEN")
 
 
